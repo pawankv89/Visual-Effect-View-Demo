@@ -1,19 +1,10 @@
-# Visual-Effect-View-Demo
-
-## Visual Effect View Demo for using Blur View on any View.
-
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/Visual-Effect-View-Demo/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/Visual-Effect-View-Demo/blob/master/images/screen_2.png)
-
-## Usage
-
-#### Controller
-
-``` swift 
-
+//
+//  ViewController.swift
+//  Visual Effect View Demo
+//
+//  Created by Pawan kumar on 31/07/19.
+//  Copyright © 2019 Pawan Kumar. All rights reserved.
+//
 
 import UIKit
 
@@ -59,16 +50,4 @@ class ViewController: UIViewController {
         
     }
 }
-
-
-
-```
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
 
